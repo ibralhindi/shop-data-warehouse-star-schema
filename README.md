@@ -1,5 +1,5 @@
 # shop-data-warehouse-star-schema
-Using SQL to create a data warehouse and star schema, and run queries for store orders. MBAT-S1, 2022
+Using SQL to create a data warehouse and star schema for store orders. MBAT-S1, 2022
 
 The tasks completed for this project were the following:
 - Created ERD
